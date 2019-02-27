@@ -2,22 +2,23 @@
 This is a final project in the Introduction to Object Oriented Programming course. In this exercise we were asked to use a compiler for a language called sjava, a language similar to the java language and invented for the course.
 
 
-#about the project
-
-this is a final exercise for the intr
-
-
-
 File description
 =============================
 
 oop.ex6.main.DataMember.java - A class representing a data member in the code.
+
 oop.ex6.main.FileReader.java - A static class that reads the file given.
+
 oop.ex6.main.MainCollector.java - A class that collects the global data members and methods.
+
 oop.ex6.main.Scope.java - A class that represents a scope in the code.
+
 oop.ex6.main.ScopeBuilder.java = A class that builds a scope.
+
 oop.ex6.main.Sjavac.java - A class that serves as the "main" in the code.
+
 oop.ex6.main.PatternPool - A class that contains all the regex in the package.
+
 
 
 Design
