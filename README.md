@@ -19,8 +19,8 @@ oop.ex6.main.ScopeBuilder.java = A class that builds a scope.
 oop.ex6.main.Sjavac.java - A class that serves as the "main" in the code.
 oop.ex6.main.PatternPool - A class that contains all the regex in the package.
 
-=============================
-=          Design           =
+
+Design
 =============================
 
 While designing the code we understood there is a need to divide it into scopes each containing data members.
@@ -72,8 +72,8 @@ type of the data member being returned by the method matches the type of the fun
 that if a variable is being assigned this value, its type fits the value.
 
 
-=============================
-=      Error Handling       =
+
+Error Handling
 =============================
 
 
@@ -84,8 +84,8 @@ About other errors, we planned on doing the same but an email was sent that it i
 up about printing them and stopped creating new messages.
 
 
-=============================
-=     Regex Description     =
+
+Regex Description
 =============================
 
 ---------------------------------------------------------------
@@ -112,6 +112,7 @@ It is used when the line is divided into different parameters and values.
 -------------------------------------------------------------
                 (void\\s+)|([(])|([,])|([)].*)
 -------------------------------------------------------------
+
 The first group takes the word 'void' and requires at least one space after it to catch. The second group
 occupies parentheses, the third one catches all the single commas and the fourth catches the closing
 parentheses and all the rest subsequent characters.
