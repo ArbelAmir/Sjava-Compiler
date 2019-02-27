@@ -7,7 +7,7 @@ This is a final project in the Introduction to Object Oriented Programming cours
 this is a final exercise for the intr
 
 
-=============================
+
 =      File description     =
 =============================
 
