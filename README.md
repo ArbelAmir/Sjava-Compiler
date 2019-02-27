@@ -8,7 +8,7 @@ this is a final exercise for the intr
 
 
 
-=      File description     =
+File description
 =============================
 
 oop.ex6.main.DataMember.java - A class representing a data member in the code.
